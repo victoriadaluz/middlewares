@@ -4,4 +4,4 @@
 <h2>Imagenes previas del desafio<h2>
 
 <p>Middlewares</p>
-<img src="https://github.com/victoriadaluz/middlewares/blob/master/public/images/ruta.png"
+<img src="https://github.com/victoriadaluz/middlewares/blob/master/public/images/ruta.png">
